@@ -1,6 +1,6 @@
 name: 'Set Action Secret'
 
-author: Habid Manzur
+author: kasish singh
 
 description: 'Create or update secrets in github repository'
 
